@@ -3,7 +3,16 @@
 </p>
 
 <h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
+<h1 align="left"><img height="50" width="70" src="https://media.tenor.com/FEIo6vWVIOMAAAAi/hi.gif"/>About Me</h1>
+<p align="center">
+  Hi, I'm Rayhan Dita! 🚀 A passionate Full Stack JavaScript Developer who loves building web applications with modern technologies.
+</p>
 
+- 🔭 Currently focusing on **MERN Stack** (MongoDB, Express.js, React, Node.js).
+- 🌱 Learning **Prisma ORM** & exploring **SQL Databases**.
+- 🎯 Interested in **real-time web apps**, **backend optimization**, and **system security**.
+- 💻 Daily OS: **Arch Linux + Hyprland**.
+- ⚡ Fun fact: I enjoy tweaking Linux configs & optimizing my workflow!
 <h1 align="center">💻 Tech Stack</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
