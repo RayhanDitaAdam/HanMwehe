@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/-Zsh-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/-YAML-CC2927?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
+  <img src="https://img.shields.io/badge/-Elysia.js-49B6E4?style=for-the-badge" alt="Elysia.js">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HanMwehe&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true">
