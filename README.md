@@ -56,15 +56,7 @@
   <img src="https://img.shields.io/badge/-YAML-CC2927?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
   <img src="https://img.shields.io/badge/-Elysia.js-49B6E4?style=for-the-badge" alt="Elysia.js">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanMwehe&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HanMwehe&theme=chartreuse-dark&hide_border=false">
-  <br/>
-
+<p>
+  <img width="100%" height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanMwehe&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HanMwehe&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
