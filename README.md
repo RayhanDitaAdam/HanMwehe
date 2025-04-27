@@ -61,7 +61,7 @@
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=HanMwehe&theme=chartreuse-dark&hide_border=false">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanMwehe&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
 </p>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=HanMwehe&limit=5&theme=dark&combine_all_yearly_contributions=true">
