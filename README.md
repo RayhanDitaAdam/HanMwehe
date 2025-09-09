@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/-Elysia.js-49B6E4?style=for-the-badge" alt="Elysia.js">
 </p>
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanMwehe&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanmwehe&show_icons=true&theme=radical">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDitaAdam&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=RayhanDitaAdam&show_icons=true&theme=radical">
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
