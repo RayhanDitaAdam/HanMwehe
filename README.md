@@ -14,7 +14,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 <p align="left">
   <img height="50" width="70" src="https://media.tenor.com/FEIo6vWVIOMAAAAi/hi.gif" align="left" style="margin-right: 10px;"/>
-  I'm a <b>Full Stack JavaScript Developer</b> based in [Your Location, e.g., Indonesia]. I thrive on turning ideas into reality through clean code and modern tech. My focus is on creating <b>real-time, scalable web applications</b> with a sprinkle of creativity and a lot of enthusiasm.
+  I'm a <b>Full Stack JavaScript Developer</b> based in Indonesia. I thrive on turning ideas into reality through clean code and modern tech. My focus is on creating <b>real-time, scalable web applications</b> with a sprinkle of creativity and a lot of enthusiasm.
 </p>
 
 - 🔭 <b>Currently working on</b>: Building dynamic MERN stack applications and experimenting with <b>Go</b>, <b>Gin</b>, and <b>GORM</b> for robust backend APIs.  
