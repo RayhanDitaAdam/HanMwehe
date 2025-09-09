@@ -69,10 +69,6 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDitaAdam&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RayhanDitaAdam&show_icons=true&theme=radical">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanDitaAdam&theme=radical" alt="GitHub Streak">
-</p>
-
 ---
 
 <h2 align="center">📬 Get in Touch</h2>
