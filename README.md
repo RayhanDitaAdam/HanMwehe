@@ -1,63 +1,91 @@
 <p align="center">
-  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="20%" height="20%">
+  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="15%" height="15%">
 </p>
 
-<h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
-<h1 align="left"><img height="50" width="70" src="https://media.tenor.com/FEIo6vWVIOMAAAAi/hi.gif"/>About Me</h1>
+<h1 align="center">🚀 Hey, I'm Rayhan Dita! 🚀</h1>
+<h3 align="center">Full Stack JavaScript Developer | Linux Enthusiast | Building Scalable Web Apps</h3>
+
 <p align="center">
-  Hi, I'm Rayhan Dita! 🚀 A passionate Full Stack JavaScript Developer who loves building web applications with modern technologies.
+  Welcome to my GitHub! I'm a passionate developer who loves crafting modern, efficient, and secure web applications with the <b>MERN stack</b> and exploring <b>Go</b> for high-performance backends. When I'm not coding, you’ll find me tweaking Linux configs or diving into new tech to optimize my workflow. Let’s build something awesome together! 😎
 </p>
 
-- 🔭 Currently focusing on **MERN Stack** (MongoDB, Express.js, React, Node.js).
-- 🌱 Learning **Prisma ORM** & exploring **SQL Databases**.
-- 🎯 Interested in **real-time web apps**, **backend optimization**, and **system security**.
-- 💻 Daily OS: **Arch Linux + Hyprland**,
-- ⚡ Fun fact: I enjoy tweaking Linux configs & optimizing my workflow!
-<h1 align="center">💻 Tech Stack</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/-Zsh-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  <img src="https://img.shields.io/badge/-YAML-CC2927?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
-  <img src="https://img.shields.io/badge/-Elysia.js-49B6E4?style=for-the-badge" alt="Elysia.js">
+---
+
+<h2 align="left">👨‍💻 About Me</h2>
+<p align="left">
+  <img height="50" width="70" src="https://media.tenor.com/FEIo6vWVIOMAAAAi/hi.gif" align="left" style="margin-right: 10px;"/>
+  I'm a <b>Full Stack JavaScript Developer</b> based in [Your Location, e.g., Indonesia]. I thrive on turning ideas into reality through clean code and modern tech. My focus is on creating <b>real-time, scalable web applications</b> with a sprinkle of creativity and a lot of enthusiasm.
 </p>
+
+- 🔭 <b>Currently working on</b>: Building dynamic MERN stack applications and experimenting with <b>Go</b>, <b>Gin</b>, and <b>GORM</b> for robust backend APIs.  
+- 🌱 <b>Learning</b>: Advanced <b>SQL databases</b>, <b>TypeScript</b>, and <b>serverless architectures</b>.  
+- 🎯 <b>Passions</b>: Real-time web apps, backend optimization, system security, and open-source contributions.  
+- 💻 <b>Daily driver</b>: Arch Linux with <b>Hyprland</b> for a sleek, customized workflow.  
+- ⚡ <b>Fun fact</b>: I spend way too much time perfecting my Linux rice and automating my dev setup!  
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/GORM-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux_Mint-%2387CF3E.svg?style=flat-square&logo=linux-mint&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Zsh-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/YAML-%23CC2927.svg?style=flat-square&logo=yaml&logoColor=white">
+  <img src="https://img.shields.io/badge/Elysia.js-%2349B6E4.svg?style=flat-square">
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDitaAdam&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayhanDitaAdam&show_icons=true&theme=radical">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RayhanDitaAdam&show_icons=true&theme=radical">
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanDitaAdam&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+<h2 align="center">📬 Get in Touch</h2>
+<p align="center">
+  I’m always open to collaboration, feedback, or just a friendly chat about tech! Reach out to me via:
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/rayhandita"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rayhandita@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/rayhandita"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://rayhandita.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=internet-explorer&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RayhanDitaAdam&style=flat-square&color=brightgreen" alt="Profile Views">
+</p>
