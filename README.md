@@ -11,7 +11,7 @@
 - 🔭 Currently focusing on **MERN Stack** (MongoDB, Express.js, React, Node.js).
 - 🌱 Learning **Prisma ORM** & exploring **SQL Databases**.
 - 🎯 Interested in **real-time web apps**, **backend optimization**, and **system security**.
-- 💻 Daily OS: **Arch Linux + Hyprland**.
+- 💻 Daily OS: **Arch Linux + Hyprland**,
 - ⚡ Fun fact: I enjoy tweaking Linux configs & optimizing my workflow!
 <h1 align="center">💻 Tech Stack</h1>
 <p align="center">
