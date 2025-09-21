@@ -66,7 +66,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDitaAdam&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDitaAdam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RayhanDitaAdam&show_icons=true&theme=radical">
 </p>
 ---
