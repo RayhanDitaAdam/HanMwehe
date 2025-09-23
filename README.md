@@ -9,22 +9,6 @@
   Welcome to my GitHub! I'm a passionate developer who loves crafting modern, efficient, and secure web applications with the <b>MERN stack</b> and exploring <b>Go</b> for high-performance backends. When I'm not coding, you’ll find me tweaking Linux configs or diving into new tech to optimize my workflow. Let’s build something awesome together! 😎
 </p>
 
----
-
-<h2 align="left">👨‍💻 About Me</h2>
-<p align="left">
-  <img height="50" width="70" src="https://media.tenor.com/FEIo6vWVIOMAAAAi/hi.gif" align="left" style="margin-right: 10px;"/>
-  I'm a <b>Full Stack JavaScript Developer</b> based in Indonesia. I thrive on turning ideas into reality through clean code and modern tech. My focus is on creating <b>real-time, scalable web applications</b> with a sprinkle of creativity and a lot of enthusiasm.
-</p>
-
-- 🔭 <b>Currently working on</b>: Building dynamic MERN stack applications and experimenting with <b>Go</b>, <b>Gin</b>, and <b>GORM</b> for robust backend APIs.  
-- 🌱 <b>Learning</b>: Advanced <b>SQL databases</b>, <b>TypeScript</b>, and <b>serverless architectures</b>.  
-- 🎯 <b>Passions</b>: Real-time web apps, backend optimization, system security, and open-source contributions.  
-- 💻 <b>Daily driver</b>: Arch Linux with <b>Hyprland</b> for a sleek, customized workflow.  
-- ⚡ <b>Fun fact</b>: I spend way too much time perfecting my Linux rice and automating my dev setup!  
-
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
